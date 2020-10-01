@@ -5,7 +5,7 @@ reverse engineering things and a lot of repos may not be complete.
 Maybe I'll decide to finish them all at one point but feel free to
 view my code in my repos and thoughts on my blog.
 
-Fredi (he/him) / 20 / America/New_York
+Fredi (`he/him`) / 20 / `America/New_York`
 
 🐦 [Twitter](https://www.twitter.com/blastbots/)
 
