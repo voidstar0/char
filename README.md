@@ -1,1 +1,4 @@
-![Metrics](https://github.com/char/char/blob/master/github-metrics.svg)
+# Fredi R
+Software Engineer. Hacker. Always a beginner
+
+Read my blog [nullpt.rs](nullpt.rs)
