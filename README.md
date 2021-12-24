@@ -1,4 +1,3 @@
-# Fredi R
-Software Engineer. Hacker. Always a beginner
+deobfuscate all the things
 
-Read my blog [nullpt.rs](https://nullpt.rs)
+see: [nullpt.rs](https://nullpt.rs)
